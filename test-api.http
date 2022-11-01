@@ -1,0 +1,46 @@
+GET http://localhost:1234/users
+Content-Type: application/json
+
+{}
+
+###
+
+GET http://localhost:1234/users/1212
+Content-Type: application/json
+
+{}
+
+###
+
+
+POST http://localhost:1234/users/tadsad/as32123dasdf/afa2w31q
+Content-Type: application/json
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+
+{}
+
+###
+
+
+PATCH http://localhost:1234/users/6356c4ae938670d1b28e3b0d/aika123@gmail.com/
+Content-Type: application/json
+
+{}
+
+###
+
+DELETE http://localhost:1234/users/
+Content-Type: application/json
+
+{}
+
+###
+
+
+
